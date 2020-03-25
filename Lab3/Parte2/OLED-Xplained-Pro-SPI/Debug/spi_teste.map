@@ -6610,7 +6610,7 @@ OUTPUT(spi_teste.elf elf32-littlearm)
  .debug_ranges  0x000007c0       0x20 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .debug_ranges  0x000007e0       0x10 src/main.o
 
-.debug_macro    0x00000000    0x204c6
+.debug_macro    0x00000000    0x2050e
  .debug_macro   0x00000000      0x6d9 src/ASF/sam/drivers/spi/spi.o
  .debug_macro   0x000006d9      0x8ce src/ASF/sam/drivers/spi/spi.o
  .debug_macro   0x00000fa7      0x16d src/ASF/sam/drivers/spi/spi.o
@@ -6801,7 +6801,7 @@ OUTPUT(spi_teste.elf elf32-littlearm)
  .debug_macro   0x0001f212      0x664 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
  .debug_macro   0x0001f876       0x10 src/ASF/sam/utils/cmsis/same70/source/templates/gcc/startup_same70.o
  .debug_macro   0x0001f886      0x455 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
- .debug_macro   0x0001fcdb      0x7eb src/main.o
+ .debug_macro   0x0001fcdb      0x833 src/main.o
 
 .debug_line     0x00000000     0xd2fb
  .debug_line    0x00000000      0xc41 src/ASF/sam/drivers/spi/spi.o
@@ -6822,7 +6822,7 @@ OUTPUT(spi_teste.elf elf32-littlearm)
  .debug_line    0x0000bd94      0x7e9 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
  .debug_line    0x0000c57d      0xd7e src/main.o
 
-.debug_str      0x00000000    0x8f55b
+.debug_str      0x00000000    0x8f5ed
  .debug_str     0x00000000    0x85e5b src/ASF/sam/drivers/spi/spi.o
                               0x86518 (size before relaxing)
  .debug_str     0x00085e5b     0x2abe src/gfx_mono_framebuffer.o
@@ -6855,8 +6855,8 @@ OUTPUT(spi_teste.elf elf32-littlearm)
                               0x8271b (size before relaxing)
  .debug_str     0x0008f416      0x137 src/ASF/sam/utils/cmsis/same70/source/templates/system_same70.o
                               0x72827 (size before relaxing)
- .debug_str     0x0008f54d        0xe src/main.o
-                              0x8c9c4 (size before relaxing)
+ .debug_str     0x0008f54d       0xa0 src/main.o
+                              0x8ca56 (size before relaxing)
 
 .debug_frame    0x00000000     0x1278
  .debug_frame   0x00000000      0x140 src/ASF/sam/drivers/spi/spi.o
