@@ -2,7 +2,7 @@
 
 A APS1 - Musical consiste em utilizar os seguintes periéricoas combinados para tocar uma música monofônica:
 
-Link para o vídeo de demonstração: 
+Link para o vídeo de demonstração: https://youtu.be/6VxK5Qw3l84
 
 Periféricos uC:
 
@@ -19,10 +19,6 @@ Módulos :
     - OLED 1 XPLAINED PRO
     - Buzzer
 
-
-## Diagrama
-
-![](diagrama.png)
 
 ## Ligação
 
